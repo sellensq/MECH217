@@ -5,6 +5,7 @@ SampleLib-Master provides an example showing how you can create an Arduino libra
 
 ## Resources
 
-Jupyter Notebooks for some content available by installing Anaconda Navigator.
-Arduino IDE required for some content.
+Jupyter Notebooks for some content (.ipynb files) available by installing Anaconda Navigator.
+
+Arduino IDE required for some content (.ino files).
 
